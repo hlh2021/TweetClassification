@@ -8,7 +8,9 @@ To run the code, the following environment is required:
 
 # Classify tweet to a pre-defined topic.
 
-The classification is implemented in MATLAB. We compared the performance of multiple classifiers: SVM, Random Forest, and CNN.
+The classification is implemented in MATLAB. 
+
+We compared the performance of multiple classifiers: SVM, Random Forest, and CNN.
 
 Entry file: testClassification.m.
 
