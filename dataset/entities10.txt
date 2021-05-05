@@ -1,0 +1,1000 @@
+#MindOfMine, 0.01
+FBI, 0.33; #AppleVsFBI, 0.33
+FBI, 0.33; Apple, 0.33; San Bernardino, 0.33
+
+
+iPhone, 0.33; FBI, 0.33; San Bernardino, 0.33; Apple, 0.33
+FBI, 0.33; iPhone, 0.33; Apple, 0.33; San Bernardino, 0.33
+
+Apple, 0.33
+
+
+
+Apple, 0.33
+San Bernardino, 0.896948; FBI, 0.714174; iPhone, 0.651383; Apple, 0.531587
+#SmurfsVillage, 0.01
+
+
+Apple, 0.33
+FBI, 0.33; San Bernardino, 0.33; Apple\, 0.33
+
+Japan, 0.33; 21 years, 0.33
+Apple, 0.33; iPhone, 0.33
+#TheLife, 0.01
+Chris Paul, 0.904212
+Tim Cook, 0.943011; Apple, 0.205333; iPhone, 0.185556; #Apple, 0.185556
+FBI, 0.33; Apple, 0.33; San Bernardino, 0.33
+Today\, 0.998128; #Moevation, 0.998128; #BYFWM, 0.998128; #Diet, 0.998128; 17Sec, 0.998128
+
+DOJ, 0.938851; iPhone, 0.335136; FBI, 0.324635
+Pinterest, 0.990935
+
+Apple, 0.33
+Apple, 0.33
+Donald Trump\, 0.33; US, 0.33
+DOJ, 0.33; iPhone, 0.33; San Bernardino, 0.33
+iPhone, 0.33; San Bernadino, 0.33; FBI, 0.33
+iPhone, 0.33; New York Times, 0.33; Apple, 0.33
+
+#MindOfMine, 0.01
+iPhone, 0.33; CNBC, 0.33; China, 0.33
+San Bernardino, 0.912072; FBI, 0.775558; Apple, 0.213977; zvelo, 0.206023; #infosec, 0.206023; #Apple, 0.206023; #zvelo, 0.206023
+Apple, 0.33
+Apple, 0.33
+U.S., 0.33; iPhone, 0.33; Apple, 0.33; The New York Times, 0.33
+
+#MindOfMine, 0.01
+
+
+Jenny, 0.33
+
+#PreOrderPURPOSE, 0.01
+#RADIO, 0.01; #TOP40, 0.01; #WSTRN, 0.01; #APPS, 0.01; #In2, 0.01
+Apple, 0.33
+#webseries, 0.01; #app, 0.01
+Apple, 0.33
+
+#AONEMKTG, 0.01; #WSHH, 0.01
+Jeff, 0.912429
+DoJ, 0.33; Apple, 0.33; FBI, 0.33
+#TheLife, 0.01
+FBI, 0.33; San Bernardino, 0.33; #apple, 0.33
+FBI, 0.33; iPhone, 0.33; San Bernardino, 0.33
+FBI, 0.33; iPhone, 0.33; San Bernardino, 0.33
+Apple, 0.874421
+U.S., 0.33; Apple, 0.33
+England Internationals, 0.971112; #AtleticoMadrid, 0.971112
+
+Justice Department, 0.33; USA Today, 0.33; Apple, 0.33
+U.S., 0.33; iPhone, 0.33; Apple, 0.33
+
+#CenturyCity, 0.01
+iOS, 0.930565
+US, 0.33; Apple, 0.33
+FBI, 0.33; iPhone, 0.33; Apple, 0.33; San Bernardino, 0.33
+iPhone, 0.33; FBI, 0.33; San Bernardino, 0.33
+
+Apple, 0.33
+100-year, 0.01
+
+Tim Cook, 0.943011; Apple, 0.205333; iPhone, 0.185556; #Apple, 0.185556
+iPhone, 0.33; FBI, 0.33; Apple, 0.33
+
+
+
+FBI, 0.33; Apple, 0.33; #SanBernardinoShooting, 0.33
+San Bernardino, 0.33
+Apple, 0.33
+Verizon, 0.33; Apple, 0.33; 16GB, 0.33
+U.S., 0.33; iPhone, 0.33; Apple, 0.33
+#VoiceKnockouts, 0.01
+US, 0.33; iPhone, 0.33; FBI, 0.33; Apple, 0.33
+U.S., 0.33; iPhone, 0.33; Apple, 0.33
+USA, 0.33; Apple, 0.33
+U.S., 0.33; iPhone, 0.33; Apple, 0.33
+
+
+US, 0.33; iPhone, 0.33; Apple, 0.33; San Bernadino, 0.33
+FBI, 0.915865; iPhone, 0.887282; Apple, 0.750159; US, 0.725688
+App Store, 0.971526
+
+Apple, 0.906698
+Apple, 0.33
+
+US, 0.33; iPhone, 0.33; FBI, 0.33; Apple, 0.33
+US, 0.33; iPhone, 0.33; FBI, 0.33; Apple, 0.33
+#MindOfMine, 0.01
+Emily Iannielli, 0.891813; Apple, 0.602271; Amazon, 0.590991; Google, 0.56104
+Europe, 0.33; iPhone, 0.33; FBI, 0.33; Apple, 0.33
+Apple, 0.926157
+apple, 0.33
+DOJ, 0.33; U.S., 0.33; iPhone, 0.33; San Bernardino, 0.33
+US, 0.33; iPhone, 0.33; FBI, 0.33; Apple, 0.33
+Apple, 0.33; Dow Chemical, 0.33
+US, 0.33; Apple, 0.33; iPhone, 0.33; #economics, 0.33; #ecofin, 0.33
+Apple, 0.920949
+FBI, 0.33; San Bernardino, 0.33; #iPhone, 0.33; #Apple, 0.33; #FBI, 0.33
+iPhone, 0.33; Apple, 0.33; U.S., 0.33
+Ben Affleck, 0.948839
+Tim Cook, 0.943011; Apple, 0.205333; iPhone, 0.185556; #Apple, 0.185556
+iPhone, 0.33; Apple, 0.33; FBI, 0.33; San Bernardino, 0.33; #FedHackers, 0.33
+USA, 0.33; Apple, 0.33
+Apple, 0.891436
+
+Apple, 0.33; Google, 0.33; #Sydney, 0.33; #News, 0.33
+FBI, 0.33; iPhone, 0.33; San Bernardino, 0.33
+FBI, 0.924017; iPhone, 0.894768; Apple, 0.777089; #finalcialtimes, 0.777089; #finance, 0.777089; #news, 0.777089; #in, 0.777089
+
+Amcrest, 0.33; #apple, 0.33; $98.60, 0.33; #deal, 0.33
+iPhones, 0.935239
+US, 0.33; iPhone, 0.33; FBI, 0.33; Apple, 0.33
+Apple, 0.33; FBI, 0.33
+
+
+Apple, 0.952403; #iphonelove, 0.952403; #iphone6s, 0.952403
+#MindOfMine, 0.01
+Apple, 0.991842; $13.5, 0.991842; $15, 0.991842
+Apple, 0.33
+FBI, 0.33
+SIMPSONS, 0.33
+FBI, 0.33; iPhone, 0.33
+Lens Venture Capital, 0.957557; Japan, 0.415665; Apple, 0.136759; #iPhone, 0.136759; #iTunes, 0.136759; #Apple, 0.136759
+FBI, 0.33; iPhone, 0.33; San Bernardino, 0.33
+apple, 0.33
+U.S., 0.33; iPhone, 0.33; Apple, 0.33
+San Bernardino, 0.33; iPhone, 0.33; BBC, 0.33; BBC, 0.33
+Apple, 0.33; Android, 0.33
+Apple, 0.33
+power supply, 0.33; #Deals, 0.33
+U.S., 0.33; iPhone, 0.33; Apple, 0.33
+iPhone, 0.33; Apple, 0.33; FBI, 0.33; San Bernardino, 0.33
+Apple, 0.33
+
+
+Apple, 0.33
+
+#NowPlaying, 0.01
+
+FBI, 0.904615; iPhone, 0.841616
+#strategy, 0.01
+guitar hero, 0.33
+#blase, 0.01
+@, 0.01
+Apple, 0.33
+Macbook, 0.33
+SmurfsVillage Island, 0.33; #SmurfsVillage, 0.33
+Foundr, 0.33; Instagram, 0.33; #entrepreneur, 0.33; #marketing, 0.33; #onlinebiz, 0.33; #smallbiz, 0.33; #startup, 0.33; #tech, 0.33
+#boringurself, 0.01
+
+
+#esoterichollywood, 0.01
+
+9.7-inch, 0.01; #iPad, 0.01
+U.S., 0.33; iPhone, 0.33; Apple, 0.33
+
+Apple, 0.33; #DEALS, 0.33; 5TB, 0.33
+Apple, 0.33; $14.66, 0.33
+Cupertino, 0.931476; iPhone, 0.846237; Apple, 0.731802; US, 0.721049
+App Store, 0.33
+
+Apple, 0.33
+
+FBI, 0.33; San Bernardino, 0.33; Apple, 0.33
+FBI, 0.33; iPhone, 0.33; San Bernardino, 0.33
+#nowplaying, 0.01; #hiphop, 0.01
+
+FBI, 0.33; Apple, 0.33
+Tim Cook, 0.943011; Apple, 0.205333; iPhone, 0.185556; #Apple, 0.185556
+joe fox, 0.33
+
+
+$10,000, 0.01
+Lyft, 0.943682; #NeverForget, 0.943682
+Tay Jones, 0.33
+
+Darlene, 0.33
+Siri, 0.96007; One sec, 0.96007
+20 mile, 0.01
+$10, 0.01
+car industry\, 0.33; GM, 0.33
+
+#ubered, 0.01
+#AONEPROMOTIONS, 0.01
+#ubered, 0.01
+
+Dennis Gartman, 0.953027; #cnbcpoll, 0.953027; #Uber, 0.953027; #oil, 0.953027
+TRUMP, 0.912204; Ovomit, 0.386497
+ABC News, 0.33
+Arturo Vidal, 0.33
+Africa, 0.33
+Klansmen, 0.33
+
+
+#DinePDX, 0.01; #PDXNOW, 0.01; #PDX, 0.01
+
+
+
+
+Florida, 0.33
+
+Arturo Vidal, 0.33
+
+
+
+Toronto, 0.33
+Toronto, 0.33
+UK, 0.893866
+
+#sandiego, 0.01; $30, 0.01
+Travis Scott, 0.33
+
+#ubered, 0.01
+
+ATLANTA, 0.33; #taxi, 0.33
+#AONEPROMOTIONS, 0.01
+
+
+
+
+
+million dollars, 0.01
+Glasgow, 0.33; murder, 0.33
+Glasgow, 0.33; murder, 0.33
+#SoundCloud, 0.01; #np, 0.01
+
+#Apps, 0.01; #Uber, 0.01; #App, 0.01
+
+
+
+
+Uber, 0.165
+#PowerTripVegas, 0.01
+Lauren, 0.33
+Travis Scott, 0.33
+
+
+#SPAD, 0.01; #ban, 0.01
+
+
+Travis Scott, 0.33
+
+
+Florida, 0.33
+
+
+Laura, 0.33
+Lyft, 0.943682; #NeverForget, 0.943682
+
+
+
+Mary Drake, 0.33; Hanna., 0.33; #PLL, 0.33
+
+
+Dabb, 0.791445
+
+Megan, 0.33
+Ayn Rand, 0.33
+
+
+#Uber, 0.01
+#BrainControl, 0.01
+
+StrawBerry, 0.33
+
+Florida, 0.33
+#Uber, 0.01
+
+Ayn Rand, 0.33
+
+
+
+
+
+
+
+
+
+Africa, 0.33
+
+
+
+
+
+
+
+murder, 0.33; Asad Shah, 0.33
+
+#WeAreNotThis, 0.01; #ncpol, 0.01; #lgbt, 0.01; #HB2, 0.01
+grampa, 0.33
+5 mins, 0.01
+
+
+
+Programmer, 0.881596; #Programming, 0.881596; #Jobs, 0.881596; #Uber, 0.881596
+Jake Croman, 0.33; Ibiza, 0.33; #scUM, 0.33
+Celine, 0.878338
+
+
+Africa, 0.33
+Africa, 0.33
+Asad Shah, 0.33; murder, 0.33; #hewasanuberdriverbruv, 0.33
+
+
+
+
+
+#selfimprovement, 0.01; 100%, 0.01
+
+
+#Uber, 0.01
+
+
+
+#ResistCapitalism, 0.01; #Multinationals, 0.01; #Capitalism, 0.01; #profit, 0.01
+21-year, 0.01
+
+
+#Uber, 0.01
+
+
+
+3 hours, 0.01
+
+
+
+
+
+
+
+Uber Driver, 0.33
+
+
+
+Easter, 0.33
+
+
+$1,000, 0.01
+
+Bruce Willis, 0.33
+#SoundCloud, 0.01
+#ubered, 0.01
+#Uberman, 0.01
+#PRTips, 0.01
+
+
+#silverservice, 0.01
+Leeds City, 0.33; Hyde park, 0.33
+
+
+
+#S4TS, 0.01
+#publictransit, 0.01; #GRMI, 0.01
+Dennis Gartman, 0.953027; #cnbcpoll, 0.953027; #Uber, 0.953027; #oil, 0.953027
+
+
+
+
+
+
+
+
+$1,000, 0.01
+
+
+Ayn Rand, 0.33
+Travis Scott, 0.33
+
+
+#laflame, 0.01
+#Uber, 0.01
+East Bay Monthly, 0.99985
+
+250K, 0.01
+
+
+
+
+
+
+
+NYC, 0.33
+
+Florida, 0.33
+
+Jon Jones, 0.33
+
+
+
+King Qtee, 0.894946; #DaMafiaof404, 0.894946; #SoundCloud, 0.894946; #np, 0.894946
+#uber, 0.01
+#TYTLive, 0.01
+University Of Michigan, 0.33; #HipHopMusic, 0.33; #HipHop, 0.33
+
+
+Ayn Rand, 0.33
+
+
+
+
+#ubered, 0.01
+
+
+#DuckDynasty, 0.01; #SJR39, 0.01; #Uber, 0.01
+
+
+
+#ResistCapitalism, 0.01; #Multinationals, 0.01; #Capitalism, 0.01; #profit, 0.01
+#technology, 0.01; #tech, 0.01
+South Africa, 0.33
+#chicklit, 0.01; #bynr, 0.01
+Amazon, 0.887501; Netflix, 0.377915
+
+
+240.29 Miles, 0.01; #ubertotals, 0.01; 36m, 0.01
+
+London, 0.165; Uber, 0.165
+#gre, 0.01
+Florida, 0.33
+
+#Apps, 0.01; #Uber, 0.01; #App, 0.01
+#Backseatpimpin, 0.01
+
+#ubered, 0.01
+Florida, 0.33
+Florida, 0.33
+Florida, 0.33
+Guy Oseary, 0.33; Ashton Kutcher, 0.33; 250M, 0.33
+
+Travis Scott, 0.33
+
+
+
+
+bank account, 0.33; 100$, 0.33
+#Austin, 0.01; #Jobs, 0.01; $576, 0.01
+
+
+20 mile, 0.01
+
+murder, 0.33; Asad Shah, 0.33
+
+
+#Apps, 0.01; #Uber, 0.01; #App, 0.01
+
+
+
+
+
+
+
+#ATXProp1, 0.01; #Austin, 0.01; #Lyft, 0.01; #Uber, 0.01
+
+
+Bae, 0.33
+#My5WordRomanceNovel, 0.01
+Siri, 0.96007; One sec, 0.96007
+
+
+
+Sheena, 0.961417
+
+
+Steve Croman\, 0.33; NYC, 0.33
+
+Florida, 0.33
+Florida, 0.33
+Florida, 0.33
+Canada, 0.33; Edmonton, 0.33; Toronto, 0.33; one month, 0.33; #Uber, 0.33
+
+
+
+Country style, 0.33
+U.S., 0.33
+
+
+
+#Happy, 0.01
+
+$250, 0.01
+
+Abu, 0.33
+
+
+
+
+
+
+
+
+
+
+$10,000, 0.01
+
+
+
+Kylie Jenner, 0.33
+
+
+
+cpuc, 0.33; retail stores, 0.33
+
+
+Donald trump, 0.33
+
+
+
+
+$750, 0.01
+
+
+
+
+City Council, 0.905387
+He\, 0.807558
+LA, 0.842224
+
+
+James, 0.33; #fb, 0.33
+
+
+Bc, 0.33
+
+
+
+
+
+
+
+
+$3 15, 0.01
+#WomenKickAss, 0.01
+Ashton Kutcher, 0.33
+
+
+Uber, 0.33; Jessica, 0.33
+
+Brittney, 0.998847
+
+Lyft, 0.33
+San Antonio, 0.912649; let\, 0.35877
+King, 0.785789
+Travis Scott, 0.33
+
+London, 0.165; Uber, 0.165
+$5, 0.01
+
+
+
+#Uber, 0.01
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#fuckyall, 0.01
+
+
+
+Lyft, 0.33
+
+
+
+#Batman, 0.01; #Uber, 0.01; #cars, 0.01
+
+
+$500, 0.01
+
+
+Truvada, 0.33; birth control, 0.33; HIV, 0.33
+
+
+
+
+
+
+
+$130, 0.01
+2 years, 0.01
+
+
+
+Australia, 0.33
+
+Travis Scott, 0.33
+
+$750, 0.01
+
+
+London, 0.33
+
+mass transit, 0.33; Florida, 0.33
+Jabar, 0.953098
+
+
+Congress, 0.33; Obama, 0.33
+
+
+
+
+Erk, 0.33; pats, 0.33; #byefelicia, 0.33
+2015 shake, 0.01
+
+
+
+
+
+
+Honda Accord, 0.969763; touch screen, 0.782368
+
+#ebook, 0.01; 100%, 0.01
+City Council, 0.905387
+
+
+
+
+
+
+Ayn Rand, 0.33
+
+
+#engineers, 0.01; #videogame, 0.01
+
+
+
+
+
+
+GOP, 0.33; 12 years, 0.33
+
+
+
+
+
+
+
+
+Telstra, 0.33
+
+
+
+
+
+
+
+
+$20, 0.01
+
+Mayor Martinez, 0.33; Rosas, 0.33; Vaughn, 0.33; Rubio Garza, 0.33
+
+NJ, 0.33
+11k, 0.01
+
+
+
+
+
+
+
+
+
+
+
+Hillsborough County, 0.33
+
+
+
+#ebook, 0.01
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$750, 0.01
+
+
+
+
+
+Pittsburgh, 0.33; #roboburgh, 0.33
+Daneille, 0.764428
+Martinez, 0.33
+
+
+
+$500, 0.01
+AirBnB, 0.33
+
+
+
+David, 0.995678
+BMW, 0.33; #blessed, 0.33
+
+
+
+#AONEPROMOTIONS, 0.01
+
+
+
+
+
+
+
+
+
+
+
+#SoundCloud, 0.01; #np, 0.01
+
+
+
+
+
+Chester, 0.903008; VA, 0.82536
+Bruv, 0.921459
+
+official, 0.33; Noobers Nasheed, 0.33
+#Toronto, 0.01; #uber, 0.01
+Chester, 0.903008; VA, 0.82536
+
+
+
+
+
+London, 0.165; Uber, 0.165
+$750, 0.01
+
+
+
+#batman, 0.01; #prank, 0.01; #uber, 0.01
+
+Coventry Connection, 0.954462
+
+Patni, 0.33
+
+
+
+
+
+
+
+
+
+
+$15, 0.01
+The Boston Globe, 0.947532
+
+Washington, 0.33; DC, 0.33
+
+Hadoop, 0.33; #uber, 0.33
+#GTA5Online, 0.01
+
+
+
+
+#zodiac, 0.01
+
+
+4 days, 0.01; $750, 0.01
+
+
+
+birth control\, 0.33; Truvada, 0.33; HIV, 0.33
+partner, 0.33
+
+
+
+
+
+#ATXProp1, 0.01; #Austin, 0.01; #Lyft, 0.01; #Uber, 0.01
+
+
+
+
+
+
+
+#FYI, 0.01
+
+
+
+
+SPAD, 0.914559
+
+
+ROBBERY, 0.33; TFL, 0.33; #uberlove, 0.33; #ubered, 0.33
+
+
+
+Lincoln Park, 0.33; Armed Robbery, 0.33
+android, 0.33
+
+#Uber, 0.01
+birth control\, 0.33; Truvada, 0.33; HIV, 0.33
+
+#freeride, 0.01; #ubercode, 0.01; #über, 0.01; $20, 0.01
+
+
+
+
+City Council, 0.905387
+
+Social Media, 0.33
+
+
+
+
+London, 0.165; Uber, 0.165
+
+
+
+
+
+
+
+Optus, 0.33; Wi-Fi, 0.33
+
+sheen, 0.33
+
+
+
+Corpus Christi, 0.940211; City Council, 0.703893
+
+London, 0.165; Uber, 0.165
+Ashton Kutcher\, 0.954992; Jimmy Kimmel\, 0.61342
+
+
+
+
+
+Michigan, 0.33
+
+
+London, 0.972038; #ubered, 0.972038; #uber, 0.972038
+
+
+
+
+Uber, 0.165
+
+
+
+
+
+
+
+
+Lyft, 0.33
+
+
+#JoyrideWorldTour, 0.01; #TinasheTuesday, 0.01
+
+
+
+bro, 0.33
+Hyuk, 0.936185
+
+
+
+
+
+
+
+
+
+$15, 0.01
+
+
+
+
+
+
+
+
+
+
+
+WordPress, 0.33
+
+
+Kelewele Uber, 0.165
+
+#Silverfoxiscoming, 0.01
+
+
+
+
+
+
+
+Vaughn Garza, 0.953465
+
+
+
+
+
+
+
+
+
+
+
+
+
+Portland, 0.938876; #UberENTREPRENEUR, 0.938876
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+King, 0.785789
+
+
+#coding, 0.01
+
+
+
+
+Optus, 0.33; 4G, 0.33
+Optus, 0.33; 4G, 0.33
+
+Uber Paris, 0.33; @, 0.33
+
+
+
+
+
+
+
+Arin, 0.33
+
+
+
+
+
+Jose, 0.33
+
+partner, 0.33
+
